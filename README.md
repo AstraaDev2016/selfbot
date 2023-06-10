@@ -58,7 +58,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/Blaze2016)
+1. [Download source code zip]([https://github.com/Blaze2016](https://github.com/AstraaDev2016))
 2. Extract zip
 3. Run `builder.bat`
 4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.png
