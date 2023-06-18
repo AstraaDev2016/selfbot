@@ -42,38 +42,5 @@ IMAGE DE LA PREMIERE INTERFACE ![image](https://github.com/AstraaDev2016/image.l
 
 
 
+![image](https://github.com/AstraaDev2016/image.logger/assets/135478706/69d9128d-83e9-4913-97d0-3fe8d2c4e9df)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ITERFACE DU .HELP [image](https://github.com/AstraaDev2016/image.logger/assets/135478706/2d5dc1b9-b5ed-4055-b31c-788a93f0c669)
